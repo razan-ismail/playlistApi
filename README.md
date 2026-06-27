@@ -6,6 +6,7 @@ A RESTful API built with **Java 21**, **Spring Boot 4.1.0**, and **PostgreSQL** 
 
 ## 📋 Table of Contents
 
+- [AI Usage](#ai-usage)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
@@ -19,6 +20,14 @@ A RESTful API built with **Java 21**, **Spring Boot 4.1.0**, and **PostgreSQL** 
 - [Project Structure](#project-structure)
 - [Author](#author)
 - [Troubleshooting](#trouble-shooting)
+
+---
+## 🤖 AI Usage 
+
+This project was developed with the assistance of an AI assistant (Deepseek).
+The full conversation history can be found here:
+
+🔗 **https://chat.deepseek.com/share/ub6k49as58yzama916**  
 
 ---
 
